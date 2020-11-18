@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderImportQuiz", "OrderImportQuiz\OrderImportQuiz.csproj", "{63D74230-CA5E-4B07-9A21-157486E1C34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D74230-CA5E-4B07-9A21-157486E1C34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D74230-CA5E-4B07-9A21-157486E1C34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D74230-CA5E-4B07-9A21-157486E1C34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D74230-CA5E-4B07-9A21-157486E1C34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D4F9392-C82C-4480-9870-9311DE136090}
+	EndGlobalSection
+EndGlobal
